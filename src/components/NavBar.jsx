@@ -1,6 +1,5 @@
-import { useState } from 'react';
+import { independiente } from '../../public/assets/primeradivision';
 import { Loading } from './Loading';
-import { independiente } from '../assets/primeradivision';
 export const NavBar = (props) => {
   return (
     <nav className="navbar navbar-expand navbar-dark bg-dark w-100 rounded-bottom shadow position-sticky top-0 end-0">
