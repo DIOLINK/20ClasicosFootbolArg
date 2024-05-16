@@ -43,7 +43,7 @@ function App() {
         isLoading={isLoading}
       />
       <Layout>
-        <div className="row row-cols-2 row-cols-lg-4 justify-content-center align-items-center g-3 h-100 position-relative">
+        <div className="row row-cols-1 row-cols-lg-4 justify-content-center align-items-center g-3 h-100 position-relative">
           {teams.length === 0 && (
             <>
               <div className="card customCard d-flex gradient-bg-animation justify-content-center align-items-center">
@@ -62,7 +62,7 @@ function App() {
             <>
               <div
                 key={`${team.id}-${Date.now()}`}
-                className={`col ${isSelected === team.id ? 'rotate-scale-up-vertical' : isSelected === team.vs ? 'scale-down-center' : null}`}
+                className={`col d-flex justify-content-center ${isSelected === team.id ? 'rotate-scale-up-vertical' : isSelected === team.vs ? 'scale-down-center' : null}`}
                 style={{ '--data-timer': `${2 * index + 1}s` }}
                 data-value={index + 1}
                 onClick={() => handleClick(team)}
