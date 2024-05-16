@@ -1,121 +1,121 @@
 [
   {
     "name": "Argentinos",
-    "image": "./argentinos.png",
+    "image": "1-q08j6Xb9MFCyF0ui4ef1rt5LvBp38ge",
     "id": "argentinos",
     "vs": "platense"
   },
   {
     "name": "Atletico Tucuman",
-    "image": "./atleticotucuman.png",
+    "image": "1NIGE5aORycKimhVB6zV3N6dcpSlFycjb",
     "id": "atleticotucuman",
     "vs": "defensa"
   },
   {
     "name": "Banfield",
-    "image": "./banfield.png",
+    "image": "1IipMIRe9C0XEQRVIdtU4SzqBNajphW6p",
     "id": "banfield",
     "vs": "lanus"
   },
   {
     "name": "Belgrano",
-    "image": "./belgrano.png",
+    "image": "1Hksz-05khaZ9E8fS-tjUZg6y8uETpVCj",
     "id": "belgrano",
     "vs": "talleres"
   },
   {
     "name": "Boca",
-    "image": "./boca.png",
+    "image": "16UeRLSvU1yZJYHn4Bu1T7Qv8fbTbGi1N",
     "id": "boca",
     "vs": "river"
   },
   {
     "name": "Defensa",
-    "image": "./defensa.png",
+    "image": "1TUyYG0aWwlA1EnfMVFJ3x6AqUiBQ0F74",
     "id": "defensa",
     "vs": "atleticotucuman"
   },
   {
     "name": "Estudiantes",
-    "image": "./estudiantes.png",
+    "image": "169VTQzS8VUsLKnY0CNVMSg5vS5SkoIlr",
     "id": "estudiantes",
     "vs": "gimnasia"
   },
   {
     "name": "Gimnasia",
-    "image": "./gimnasia.png",
+    "image": "1XkwNtxnM_KuJwoXOyI_4QO7t9oN6Qodc",
     "id": "gimnasia",
     "vs": "estudiantes"
   },
   {
     "name": "Huracan",
-    "image": "./huracan.png",
+    "image": "1EracduvJjPSuAuqDuj04V-fOaSTzNoRu",
     "id": "huracan",
     "vs": "sanlorenzo"
   },
   {
     "name": "Independiente",
-    "image": "./independiente.png",
+    "image": "1BPSIciRKRzKPo5WSDfMXjFscCpg9VPEW",
     "id": "independiente",
     "vs": "racing"
   },
   {
     "name": "Lanus",
-    "image": "./lanus.png",
+    "image": "1p7YzzcX1115O_JdB_dLElGk3NuL9vWL1",
     "id": "lanus",
     "vs": "banfield"
   },
   {
     "name": "Newells",
-    "image": "./newells.png",
+    "image": "1rS5zma6BOKcxkxIn3zpqZ8NA-VCBqfqk",
     "id": "newells",
     "vs": "rosariocentral"
   },
   {
     "name": "Platense",
-    "image": "./platense.png",
+    "image": "1JXC1w9mfeZW63QNYw6xGSHazhfGn9WiO",
     "id": "platense",
     "vs": "argentinos"
   },
   {
     "name": "Racing",
-    "image": "./racing.png",
+    "image": "1Nd_Y_Kphc9A9ikxRt2-Bx0aiVp8BfbMC",
     "id": "racing",
     "vs": "independiente"
   },
   {
     "name": "River",
-    "image": "./river.png",
+    "image": "1_cpItHzt0ubH1HiNsvf7LmbW2JbbvIie",
     "id": "river",
     "vs": "boca"
   },
   {
     "name": "Rosario Central",
-    "image": "./rosariocentral.png",
+    "image": "1qHW7MMqSkjO6tb5aLAbTqT9IUWRaONTd",
     "id": "rosariocentral",
     "vs": "newells"
   },
   {
     "name": "San Lorenzo",
-    "image": "./sanlorenzo.png",
+    "image": "1GZ6lJsi806Ku08Eb__ZKzlpYt7wjThGU",
     "id": "sanlorenzo",
     "vs": "huracan"
   },
   {
     "name": "Talleres",
-    "image": "./talleres.png",
+    "image": "17AA0UWGGiMQkLrQyT6DooiCbHGJbNQlx",
     "id": "talleres",
     "vs": "belgrano"
   },
   {
     "name": "Union",
-    "image": "./union.png",
+    "image": "1NIpHan8V7-IGeBCwozOqTVChzb3HMU94",
     "id": "union",
     "vs": "velez"
   },
   {
     "name": "Velez",
-    "image": "./velez.png",
+    "image": "1-4Q-t0HYnHbaJjr8-kqvUKHEP6BJEs9b",
     "id": "velez",
     "vs": "union"
   }

@@ -69,7 +69,7 @@ function App() {
               >
                 <div className="card customCard gradient-bg-animation">
                   <img
-                    src={`/public/assets/primeradivision/${team.image}`}
+                    src={`https://lh3.googleusercontent.com/d/${team.image}=s311`}
                     className="card-img-top image"
                     alt={`Item-${team.id + Date.now()}`}
                   ></img>
