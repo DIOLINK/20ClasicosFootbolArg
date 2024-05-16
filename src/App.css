@@ -1,0 +1,84 @@
+#root {
+  margin: 0 auto;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+nav {
+  z-index: 1;
+}
+.layout {
+  flex: 1;
+  align-content: center;
+}
+.customCard {
+  min-height: 400px;
+
+  background: rgba(250, 250, 250, 0.07);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5.9px);
+  -webkit-backdrop-filter: blur(5.9px);
+  border: 1px solid rgba(250, 250, 250, 0.95);
+}
+
+.rotate-scale-up-vertical {
+  animation: rotate-scale-up-vertical 2s linear;
+}
+@keyframes rotate-scale-up-vertical {
+  0% {
+    transform: scale(1) rotateY(0);
+  }
+  50% {
+    transform: scale(2) rotateY(180deg);
+  }
+  100% {
+    transform: scale(1) rotateY(360deg);
+  }
+}
+
+.scale-down-center {
+  animation: scale-down-center var(--data-timer);
+}
+@keyframes scale-down-center {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0.5);
+  }
+}
+
+.gradient-bg-animation {
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(
+    45deg,
+    #0000004e 0%,
+    #8d99ae4e 38%,
+    #fafafa4e 48%,
+    #ef233c4e 78%,
+    #d904294e 100%
+  );
+  background-size: 300% 100%;
+  backdrop-filter: blur(5.9px);
+  -webkit-backdrop-filter: blur(5.9px);
+  animation: gradient 5s ease infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.image {
+  aspect-ratio: 1;
+  max-height: 410px;
+}

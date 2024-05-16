@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Argentinos",
+    "image": "./argentinos.png",
+    "id": "argentinos",
+    "vs": "platense"
+  },
+  {
+    "name": "Atletico Tucuman",
+    "image": "./atleticotucuman.png",
+    "id": "atleticotucuman",
+    "vs": "defensa"
+  },
+  {
+    "name": "Banfield",
+    "image": "./banfield.png",
+    "id": "banfield",
+    "vs": "lanus"
+  },
+  {
+    "name": "Belgrano",
+    "image": "./belgrano.png",
+    "id": "belgrano",
+    "vs": "talleres"
+  },
+  {
+    "name": "Boca",
+    "image": "./boca.png",
+    "id": "boca",
+    "vs": "river"
+  },
+  {
+    "name": "Defensa",
+    "image": "./defensa.png",
+    "id": "defensa",
+    "vs": "atleticotucuman"
+  },
+  {
+    "name": "Estudiantes",
+    "image": "./estudiantes.png",
+    "id": "estudiantes",
+    "vs": "gimnasia"
+  },
+  {
+    "name": "Gimnasia",
+    "image": "./gimnasia.png",
+    "id": "gimnasia",
+    "vs": "estudiantes"
+  },
+  {
+    "name": "Huracan",
+    "image": "./huracan.png",
+    "id": "huracan",
+    "vs": "sanlorenzo"
+  },
+  {
+    "name": "Independiente",
+    "image": "./independiente.png",
+    "id": "independiente",
+    "vs": "racing"
+  },
+  {
+    "name": "Lanus",
+    "image": "./lanus.png",
+    "id": "lanus",
+    "vs": "banfield"
+  },
+  {
+    "name": "Newells",
+    "image": "./newells.png",
+    "id": "newells",
+    "vs": "rosariocentral"
+  },
+  {
+    "name": "Platense",
+    "image": "./platense.png",
+    "id": "platense",
+    "vs": "argentinos"
+  },
+  {
+    "name": "Racing",
+    "image": "./racing.png",
+    "id": "racing",
+    "vs": "independiente"
+  },
+  {
+    "name": "River",
+    "image": "./river.png",
+    "id": "river",
+    "vs": "boca"
+  },
+  {
+    "name": "Rosario Central",
+    "image": "./rosariocentral.png",
+    "id": "rosariocentral",
+    "vs": "newells"
+  },
+  {
+    "name": "San Lorenzo",
+    "image": "./sanlorenzo.png",
+    "id": "sanlorenzo",
+    "vs": "huracan"
+  },
+  {
+    "name": "Talleres",
+    "image": "./talleres.png",
+    "id": "talleres",
+    "vs": "belgrano"
+  },
+  {
+    "name": "Union",
+    "image": "./union.png",
+    "id": "union",
+    "vs": "velez"
+  },
+  {
+    "name": "Velez",
+    "image": "./velez.png",
+    "id": "velez",
+    "vs": "union"
+  }
+]
