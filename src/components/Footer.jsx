@@ -5,7 +5,7 @@ export const Footer = () => {
         className="text-center text-danger p-3"
         style={{ 'background-color': 'var(--bs-dark)' }}
       >
-        © 2024 Copyright: Dio
+        © 2024 Copyright
       </div>
     </footer>
   );

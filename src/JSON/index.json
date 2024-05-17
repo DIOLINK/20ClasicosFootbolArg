@@ -3,120 +3,140 @@
     "name": "Argentinos",
     "image": "1-q08j6Xb9MFCyF0ui4ef1rt5LvBp38ge",
     "id": "argentinos",
-    "vs": "platense"
+    "vs": "platense",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Atletico Tucuman",
     "image": "1NIGE5aORycKimhVB6zV3N6dcpSlFycjb",
     "id": "atleticotucuman",
-    "vs": "defensa"
+    "vs": "defensa",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Banfield",
     "image": "1IipMIRe9C0XEQRVIdtU4SzqBNajphW6p",
     "id": "banfield",
-    "vs": "lanus"
+    "vs": "lanus",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Belgrano",
     "image": "1Hksz-05khaZ9E8fS-tjUZg6y8uETpVCj",
     "id": "belgrano",
-    "vs": "talleres"
+    "vs": "talleres",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Boca",
     "image": "16UeRLSvU1yZJYHn4Bu1T7Qv8fbTbGi1N",
     "id": "boca",
-    "vs": "river"
+    "vs": "river",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Defensa",
     "image": "1TUyYG0aWwlA1EnfMVFJ3x6AqUiBQ0F74",
     "id": "defensa",
-    "vs": "atleticotucuman"
+    "vs": "atleticotucuman",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Estudiantes",
     "image": "169VTQzS8VUsLKnY0CNVMSg5vS5SkoIlr",
     "id": "estudiantes",
-    "vs": "gimnasia"
+    "vs": "gimnasia",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Gimnasia",
     "image": "1XkwNtxnM_KuJwoXOyI_4QO7t9oN6Qodc",
     "id": "gimnasia",
-    "vs": "estudiantes"
+    "vs": "estudiantes",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Huracan",
     "image": "1EracduvJjPSuAuqDuj04V-fOaSTzNoRu",
     "id": "huracan",
-    "vs": "sanlorenzo"
+    "vs": "sanlorenzo",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Independiente",
     "image": "1BPSIciRKRzKPo5WSDfMXjFscCpg9VPEW",
     "id": "independiente",
-    "vs": "racing"
+    "vs": "racing",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Lanus",
     "image": "1p7YzzcX1115O_JdB_dLElGk3NuL9vWL1",
     "id": "lanus",
-    "vs": "banfield"
+    "vs": "banfield",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Newells",
     "image": "1rS5zma6BOKcxkxIn3zpqZ8NA-VCBqfqk",
     "id": "newells",
-    "vs": "rosariocentral"
+    "vs": "rosariocentral",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Platense",
     "image": "1JXC1w9mfeZW63QNYw6xGSHazhfGn9WiO",
     "id": "platense",
-    "vs": "argentinos"
+    "vs": "argentinos",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Racing",
     "image": "1Nd_Y_Kphc9A9ikxRt2-Bx0aiVp8BfbMC",
     "id": "racing",
-    "vs": "independiente"
+    "vs": "independiente",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "River",
     "image": "1_cpItHzt0ubH1HiNsvf7LmbW2JbbvIie",
     "id": "river",
-    "vs": "boca"
+    "vs": "boca",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Rosario Central",
     "image": "1qHW7MMqSkjO6tb5aLAbTqT9IUWRaONTd",
     "id": "rosariocentral",
-    "vs": "newells"
+    "vs": "newells",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "San Lorenzo",
     "image": "1GZ6lJsi806Ku08Eb__ZKzlpYt7wjThGU",
     "id": "sanlorenzo",
-    "vs": "huracan"
+    "vs": "huracan",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Talleres",
     "image": "17AA0UWGGiMQkLrQyT6DooiCbHGJbNQlx",
     "id": "talleres",
-    "vs": "belgrano"
+    "vs": "belgrano",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Union",
     "image": "1NIpHan8V7-IGeBCwozOqTVChzb3HMU94",
     "id": "union",
-    "vs": "velez"
+    "vs": "velez",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   },
   {
     "name": "Velez",
     "image": "1-4Q-t0HYnHbaJjr8-kqvUKHEP6BJEs9b",
     "id": "velez",
-    "vs": "union"
+    "vs": "union",
+    "description": "Dolore do dolore adipisicing mollit ad fugiat elit cillum consectetur. Ad duis tempor officia ea adipisicing est reprehenderit id. Sit aute pariatur labore fugiat aliqua ad. Nostrud mollit ad reprehenderit labore. Duis incididunt minim eu aliquip commodo."
   }
 ]

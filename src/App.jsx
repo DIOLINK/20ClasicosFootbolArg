@@ -94,6 +94,18 @@ function App() {
               onClick={() => setTeams(API_RESPONSE)}
             ></button>
           )}
+          {teams.length === 2 && (
+            <p>
+              Cupidatat aliqua ut est eiusmod Lorem sint nisi sit ea id velit
+              tempor magna. Nostrud labore et anim ex voluptate ipsum nostrud.
+              Labore anim deserunt aliquip aliqua commodo aliquip esse nostrud
+              voluptate. Deserunt occaecat dolore voluptate in elit commodo
+              labore consequat. Anim cupidatat fugiat et ipsum sunt voluptate
+              nostrud labore ullamco. Excepteur dolore dolor culpa veniam cillum
+              exercitation cillum occaecat laborum ad tempor adipisicing eiusmod
+              cillum.
+            </p>
+          )}
         </div>
       </Layout>
       <Footer />
